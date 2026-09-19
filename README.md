@@ -1,4 +1,3 @@
-### your-username / README.md
 
 # Hey there 👋
 
