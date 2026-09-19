@@ -6,9 +6,9 @@ I'm **Sajid**, a 3rd-year Software Engineering student focusing on full stack de
 
 I mostly work across the stack — React, Node.js, and databases like MongoDB/PostgreSQL, with some Tailwind for styling on the frontend side. I also write Python and C/C++, and I'm exploring AI-powered apps and data science on the side.
 
-I also dabble in Figma for quick UI mockups and pick up new tools as projects need them.
-
 This is a fresh profile where I'll be uploading coursework projects, side experiments, and things I'm currently learning.
+
+---
 
 ## Tools & Tech
 
